@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-ajaxloader-1.1.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-charts-0.9.10.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-maps-api-3.9.0-build-17.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/lucene-analyzers-common-6.0.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/lucene-core-6.0.0.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/lucene-queryparser-6.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Eclipse/java-neon/eclipse/configuration/org.eclipse.osgi/166/data/-1975432964/plugins/com.gwtplugins.gwt.eclipse.sdkbundle.gwt27_2.7.0.201707251900/gwt-2.7.0/gwt-user.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/Eclipse/java-neon/eclipse/configuration/org.eclipse.osgi/166/data/-1975432964/plugins/com.gwtplugins.gwt.eclipse.sdkbundle.gwt27_2.7.0.201707251900/gwt-2.7.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Eclipse/java-neon/eclipse/configuration/org.eclipse.osgi/166/data/-1975432964/plugins/com.gwtplugins.gwt.eclipse.sdkbundle.gwt27_2.7.0.201707251900/gwt-2.7.0/gwt-codeserver.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/Eclipse/java-neon/eclipse/configuration/org.eclipse.osgi/166/data/-1975432964/plugins/com.gwtplugins.gwt.eclipse.sdkbundle.gwt27_2.7.0.201707251900/gwt-2.7.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Eclipse/java-neon/eclipse/configuration/org.eclipse.osgi/166/data/-1975432964/plugins/com.gwtplugins.gwt.eclipse.sdkbundle.gwt27_2.7.0.201707251900/gwt-2.7.0/gwt-dev.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/Eclipse/java-neon/eclipse/configuration/org.eclipse.osgi/166/data/-1975432964/plugins/com.gwtplugins.gwt.eclipse.sdkbundle.gwt27_2.7.0.201707251900/gwt-2.7.0/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Eclipse/java-neon/eclipse/configuration/org.eclipse.osgi/166/data/-1975432964/plugins/com.gwtplugins.gwt.eclipse.sdkbundle.gwt27_2.7.0.201707251900/gwt-2.7.0/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Eclipse/java-neon/eclipse/configuration/org.eclipse.osgi/166/data/-1975432964/plugins/com.gwtplugins.gwt.eclipse.sdkbundle.gwt27_2.7.0.201707251900/gwt-2.7.0/validation-api-1.0.0.GA.jar" sourcepath="C:/Program Files/Eclipse/java-neon/eclipse/configuration/org.eclipse.osgi/166/data/-1975432964/plugins/com.gwtplugins.gwt.eclipse.sdkbundle.gwt27_2.7.0.201707251900/gwt-2.7.0/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

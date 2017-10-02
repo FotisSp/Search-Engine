@@ -1,0 +1,2 @@
+serviceClass: com.search_engine.application.client.GreetingService
+path: B47355628F3B89E651222DDABD7B114A.gwt.rpc
