@@ -60,7 +60,7 @@ public class Indexer
 			long tDelta = tEnd - tStart;
 			double elapsedSeconds = tDelta / 1000.0;
 			System.out.println("--- Elapsed time : "+elapsedSeconds+" ---");
-																		//total processes : 2435672
+																		 //total processes : 2435672
 		}
 	}
 	
